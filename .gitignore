@@ -2,3 +2,5 @@ HuggingFace/fine_tune_basic/mymodel/
 PyTorch_Mastery/data
 # PyTorch_Mastery/asset
 Dataset
+Pytorch_Mastery/image_caption_model.pth
+Pytorch_Mastery/features.pkl
